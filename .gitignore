@@ -116,3 +116,6 @@ dist
 .pnp.*
 node_modules
 package-lock.json
+videos
+upload
+static
